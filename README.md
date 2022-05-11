@@ -8,7 +8,7 @@ Reference:
     DOI: 10.1109/TIT.2021.3121752
     https://ieeexplore.ieee.org/document/9585093
 
-## Summary of the work --  Asymptotically Achieving Centralized Rate on the Decentralized Network MISO Channel
+## Summary of the work - Asymptotically Achieving Centralized Rate on the Decentralized Network MISO Channel
 
 This work analyzes the achievable rate of cooperative transmission in a decentralized wireless scenario. 
 In particular, we focus on a network in which a set of non-colocated transmitters aim at simultaneously serving a set of single-antenna users. It has been usually considered that the precoder computation and the interference management are done in a centralized manner, or that at least all the transmitters share the same (maybe imperfect) information about the channel state. 
